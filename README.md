@@ -1,5 +1,5 @@
 ## Hi there👋
-I'm a passionate software developer who is interested in the finance industry. I'm constantly learning and building new things. In my free time, I enjoy working on simple side projects to learn new technologies and frameworks.
+I'm a passionate software developer who is interested in FinTech and AI. I'm constantly learning and building new things. In my free time, I enjoy working on simple side projects and participating in hackathons to learn new technologies and frameworks.
 
 This profile showcases my projects, skills, and experiences. Feel free to reach out if you have any questions.
 ## My skills
