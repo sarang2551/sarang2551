@@ -13,7 +13,7 @@ This profile showcases my projects, skills, and experiences. Feel free to reach 
 
 
 ### All other skills
-[![My Skills](https://skillicons.dev/icons?i=aws,dotnet,cpp,visualstudio,vscode,kotlin,py,java,ts,js,vite,postman,jest,azure,react,nodejs,bootstrap,selenium,mongodb,rabbitmq,linux,github,githubactions,git,cs,scala,firebase,tensorflow,matlab,html,css,figma,ai,solidity,arduino&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,dotnet,cpp,visualstudio,vscode,kotlin,py,java,ts,js,vite,postman,jest,azure,react,nodejs,bootstrap,selenium,mongodb,rabbitmq,linux,github,githubactions,git,cs,scala,firebase,tensorflow,matlab,html,css,figma,ai,solidity,arduino,django&perline=3)](https://skillicons.dev)
 <!--
 **sarang2551/sarang2551** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 I’m currently working on
-* Building a blockchain application using Golang in order to gain more knowledge about the inner workings of blockchain and Web 3.0.
-* Enhancing an [existing React-Redux application](https://github.com/sarang2551/ReactReduxFrontend) that i started working on in 2021.
+* Building a simple Flask backend and React frontend web application, eventually deploying it to an AWS EC2 instance.
 
 ## 🌱 I’m currently learning
 [![Currently learning](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
