@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 * Building a simple Flask backend and React frontend web application, eventually deploying it to an AWS EC2 instance.
 
 ## 🌱 I’m currently learning
-[![Currently learning](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
+[![Currently learning](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
 
 
 ## 📫 How to reach me: ...
