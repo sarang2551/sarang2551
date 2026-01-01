@@ -30,10 +30,14 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 I’m currently working on
-* Building a simple Flask backend and React frontend web application, eventually deploying it to an AWS EC2 instance.
+* A telegram bot assistant that helps me plan out my days using AI.
+* Creating features for the telegram bot to ingest natural language input and process it using a local ollama model to maintain privacy.
+* Eventually dabble with containerizing the service for Kubernetes 
 
 ## 🌱 I’m currently learning
-[![Currently learning](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
+* Azure Kubernetes Service
+* Dockerizing .NET applications
+* Kafka
 
 
 ## 📫 How to reach me: ...
