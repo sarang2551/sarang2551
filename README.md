@@ -35,9 +35,7 @@ Here are some ideas to get you started:
 * Eventually dabble with containerizing the service for Kubernetes 
 
 ## 🌱 I’m currently learning
-* Azure Kubernetes Service
-* Dockerizing .NET applications
-* Kafka
+* Axon (CQRS)
 
 
 ## 📫 How to reach me: ...
